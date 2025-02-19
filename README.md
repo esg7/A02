@@ -6,6 +6,13 @@ Part 1:
 - After confirming I am human I linked my github with webstorm to combine my work.
 - Then I downloaded WebStorm and was able to transfer my VS code repositories to it immediately
 
+GIT
+- With Git I set it up through mac by sudo apt install git in my terminal
+- Git is a version control system that keeps track of files
+
+Github
+-This is a website that has developers keep track of files of code through local repositories
+-Prior to this class I had already created github by creating an account.
 Part 2
 **Branch** - Allows user to work on different parts of a project without affecting other parts.
 
